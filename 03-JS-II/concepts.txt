@@ -1,0 +1,8 @@
+1. for
+    Es una herramienta que te permite hacer algo en bucle hasta que cumpla cierta condicion.
+2. &&, ||, !
+    &&: Sirve para evaluar más de una codición, si todas las codiciones son verdaderas entonces el resultado sera verdadero
+        caso contrario falso.
+    ||: Sirve para evaluar más de una codición, si al menos una condición es verdadera entonces el resultado sera verdadero
+        caso contrario falso.
+    !: Lo transforma a lo opuesto, si la condición devuelve verdadero lo convierte en falso.
