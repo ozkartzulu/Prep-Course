@@ -1,0 +1,12 @@
+
+1. Variables
+    Son contenedores de números, strings, objetos que pueden cambiar en el proceso de funcionamiento.
+2. String
+    Son cadenas formato texto que su denotación consiste en ponerlo dentro de comillas dobles o simples.
+3. Funciones (argumentos, return)
+    Es un método que su función es realizar una acción única cuando se lo invoca, puede recibir argumentos( datos que recive 
+    la función para cumplir su acción ), igual puede retornar algun dato después de procesar cierta información.
+4. Declaraciones if
+    Es una expresión lógica que consiste en evaluar una condición si es verdadero o falso para que realice cierta accion.
+5. Valores booleanos (true, false)
+    Son valores que muestran el estado de un objeto, variable, string, expresión, etc... , podría ser verdadero o falso.
