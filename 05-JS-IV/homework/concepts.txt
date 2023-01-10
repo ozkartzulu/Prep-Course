@@ -1,0 +1,11 @@
+1 Objetos : Son lista de caracteristicas y comportamientos de cualquier cosa (casa, bicicleta, balon, auto, ...), se representa de la siguiente manera:
+            auto = { color: 'rojo', marca: 'toyota', acelerar: function(){console.log('acelerando...')} }
+2 Propiedades : Cada caracteristica que representa al objeto que pertence, en el ejemplo anterior la propiedad color 
+                representa al objecto auto.
+3 Métodos : Son comportamientos de un objeto, como en el ejemplo anterior el metodo acelerar, es un comportamiento del 
+            objeto auto que acelera al auto.
+4 Bucle `for…in` : Es una herramienta que te permite recorrer todas las propiedades de un objeto con el objetivo de realizar
+                    alguna acción.
+5 Notación de puntos vs notación de corchetes : Ambos te permiten acceder a cierta propiedad de un objeto, pero la notación de 
+corchetes te permite usar variables para crear o acceder dinamicamente a cierta propiedad mientras la notación de puntos no pero es 
+mas fácil de usar.
